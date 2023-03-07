@@ -1,4 +1,4 @@
-//VINCENT BANDA BED-COM-04-20
+//VINCENT BANDA
 
 import java.util.* ;
 import java.io.* ;
